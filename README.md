@@ -1,6 +1,9 @@
 # Cognitive agent in Nengo
 Created a cognitive agent in Nengo which walks in an environment and remembers the colors it has seen. It can be asked what colors it has seen and it avoids colors that it has already seen.
 
+## Running
+Run the model by the command `nengo` in the right folder. (Needs `nengo` and `nengo_gui` installed)
+
 ## Task description
 Use Nengo to create a cognitive agent that can navigate a simple grid world. In particular,
 this grid world contains colour-coded locations (Red, Green, Blue, Yellow, and Magenta). Your
